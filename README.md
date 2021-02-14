@@ -1,7 +1,7 @@
 # Spam detection
  
 MultinomialNB implements the naive Bayes algorithm for multiunit distributed data and is one of the two classic naive Bayes variants used in text classification.
-Based on the classical Naive Bayes, Q (yi) specifies the probability of occurrence of variable i of P (xi, y). The relevant address coding stage was taken as a reference for the application of the formulas. (https://scikit-learn.org/stable/modules/naive_bayes.html#multinomial-naive-bayes)
+Based on the classical Naive Bayes, Q (yi) specifies the probability of occurrence of variable i of P (xi, y). The relevant address coding stage was taken as a reference for the application of the formulas. (https://scikit-learn.org/stable/modules/naive_bayes.html#multinomial-naive-bayes)<br>
 Code details are presented in the code as a comment line.<br>
 
 Basically, the steps taken are as follows;<br>
